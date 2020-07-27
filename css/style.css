@@ -366,6 +366,11 @@ nav{
     background-color:#2CAEB8;
 }
 
+.other-img{
+    width: 100%;
+    height: 100%;
+}
+
 
 /* media queries */
 @media  only screen and (max-width:1154px){
@@ -534,9 +539,7 @@ nav{
         margin-bottom: 5% !important;
     }
 
-    .other-test{
-        display: none;
-    }
+
 
     .small-centered{
         text-align: center;
@@ -544,6 +547,8 @@ nav{
 
 
 }
+
+
 
 @media  only screen and (min-width:768px){
     .portfolio-others{
